@@ -18,7 +18,7 @@
 ## Technologies Used:
 
 - HTML: Responsible for the structure of the web page.
-- CSS: Cascading Style Sheets, providing aesthetics and layout for the page.
+- CSS: Providing aesthetics and layout for the page.
 - JavaScript: Used for interactive search functionality, fetching data from an
   API (via Axios), and handling dropdown lists (Slim-Select).
 - Axios: Facilitates seamless communication with an external API through
@@ -31,7 +31,7 @@
 - Dynamic Results Display:
   - Upon choosing a search phrase, the page dynamically presents users with
     results, including images and brief descriptions of cat breeds.
-    ![Cat](./assets/cat.png)
+    ![Cat Info](./assets/cat.png)
 - Notifications:
   - Notiflix is used for gracefully displaying notifications, informing users
     about search results.
