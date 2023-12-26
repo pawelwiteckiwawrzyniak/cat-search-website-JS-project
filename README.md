@@ -31,6 +31,7 @@
 - Dynamic Results Display:
   - Upon choosing a search phrase, the page dynamically presents users with
     results, including images and brief descriptions of cat breeds.
+    ![Cat](./assets/cat.png)
 - Notifications:
   - Notiflix is used for gracefully displaying notifications, informing users
     about search results.
