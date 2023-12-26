@@ -35,3 +35,9 @@
 - Gain practical experience in using APIs to retrieve data.
 - Utilize JavaScript promises for asynchronous handling of HTTP requests and data management.
 - Use Notiflix and Slim-Select to improve the user experience while navigating the site.
+
+## Setup
+``shell
+npm i
+snpm start
+``
