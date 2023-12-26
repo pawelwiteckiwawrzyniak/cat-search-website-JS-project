@@ -9,6 +9,7 @@
 - [Technologies Used](#technologies-used)
 - [Project Features](#project-features)
 - [Project Objectives](#project-objectives)
+- [Setup](#setup)
 
 ## General Information
 
