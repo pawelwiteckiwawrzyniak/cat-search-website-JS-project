@@ -20,8 +20,6 @@
 - Slim-Select: Offers stylish and user-friendly dropdown lists.
 
 ## Project Features:
-- Cat Breed Search:
-  - Utilizes Axios for communication with an external API to retrieve data about cat breeds.
 - Dynamic Results Display:
   - Upon choosing a search phrase, the page dynamically presents users with results, including images and brief descriptions of cat breeds.
 - Notifications:
