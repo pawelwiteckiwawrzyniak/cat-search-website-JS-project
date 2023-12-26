@@ -38,6 +38,7 @@
 
 ## Setup
 ``shell
-npm i
-snpm start
+npm i ``
+``shell
+npm start
 ``
