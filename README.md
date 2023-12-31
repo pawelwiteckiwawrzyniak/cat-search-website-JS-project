@@ -18,14 +18,12 @@
 
 ## Technologies Used:
 
-- HTML: Responsible for the structure of the web page.
-- CSS: Providing aesthetics and layout for the page.
-- JavaScript: Used for interactive search functionality, fetching data from an
-  API (via Axios), and handling dropdown lists (Slim-Select).
-- Axios: Facilitates seamless communication with an external API through
-  asynchronous HTTP requests.
-- Notiflix: Utilized for elegant notification displays on the page.
-- Slim-Select: Offers stylish and user-friendly dropdown lists.
+- HTML
+- CSS
+- JavaScript
+- Axios
+- Notiflix
+- Slim-Select
 
 ## Project Features:
 
