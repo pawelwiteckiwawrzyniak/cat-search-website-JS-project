@@ -32,7 +32,7 @@
     results, including images and brief descriptions of cat breeds.
     ![Cat Info](./assets/cat.png)
 - Notifications:
-  - Notiflix is used for gracefully displaying notifications, informing users
+  - Notiflix is used for displaying notifications, informing users
     about search results.
 - Dropdown Lists:
   - Slim-Select enables users to make convenient selections from dropdown lists.
