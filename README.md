@@ -1,6 +1,6 @@
 # Cat Search Website - project
 
-- This is a simple, interactive website created using HTML, CSS, and JavaScript,
+- This is a simple, interactive website created using JavaScript,
   enhanced with additional libraries such as Axios, Notiflix, and Slim-Select
 
 ## Table of Contents
