@@ -1,55 +1,22 @@
-# Cat Search Website - project
+# Cat Search App
 
-- This is a simple, interactive website created using JavaScript,
-  enhanced with additional libraries such as Axios, Notiflix, and Slim-Select
+An interactive web application built with  JavaScript for searching cat breeds and viewing images fetched from an external API.
 
-## Table of Contents
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+* Axios
+* Slim-Select (custom select component)
+* Notiflix (UI notifications)
 
-- [General Info](#general-information)
-- [Technologies Used](#technologies-used)
-- [Project Features](#project-features)
-- [Project Objectives](#project-objectives)
-- [Setup](#setup)
-
-## General Information
-
-- This project is a simple website created to expand knowledge and gain
-  experience in web development.
-
-## Technologies Used:
-
-- HTML
-- CSS
-- JavaScript
-- Axios
-- Notiflix
-- Slim-Select
-
-## Project Features:
-
-- Dynamic Results Display:
-  - Upon choosing a search phrase, the page dynamically presents users with
-    results, including images and brief descriptions of cat breeds.
-    ![Cat Info](./assets/cat.png)
-- Notifications:
-  - Notiflix is used for displaying notifications, informing users
-    about search results.
-- Dropdown Lists:
-  - Slim-Select enables users to make convenient selections from dropdown lists.
-    ![Dropdown list](./assets/cat1.png)
-- Loader:
-  - Loader informs users about what's going on in the background
-
-## Project Objectives:
-
-- Expand knowledge in creating responsive and interactive web pages.
-- Learn to integrate external libraries, such as Axios, Notiflix, and
-  Slim-Select.
-- Gain practical experience in using APIs to retrieve data.
-- Utilize JavaScript promises for asynchronous handling of HTTP requests and
-  data management.
-- Use Notiflix and Slim-Select to improve the user experience while navigating
-  the site.
+## Key Features
+* **Dynamic Data Fetching:** Utilized Axios and JavaScript Promises to asynchronously retrieve breed information and images from a REST API.
+* **Custom Dropdown:** Integrated Slim-Select for an enhanced select element experience.
+   ![Dropdown list](./assets/cat1.png)
+* **Detailed View:** Dynamic DOM manipulation to render breed details, descriptions, and corresponding images.
+   ![Cat Info](./assets/cat.png)
+* **State & Error Handling:** Loader indicator during asynchronous API queries and Notiflix toast alerts for error management.
 
 ## Setup
 
